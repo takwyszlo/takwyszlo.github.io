@@ -8,23 +8,7 @@ categories: [wprowadzenie, filozofia]
 tags: [blog, podróże, planowanie, realizacja, życie]
 ---
 
-<style>
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-.grid > div {
-  background: #f9f9f9;
-  padding: 1rem;
-  border-left: 4px solid #2b6cb0;
-  border-radius: 6px;
-}
-h3 {
-  margin-top: 0;
-}
-</style>
+
 
 ## 🚶 Mikroprzygoda: pieszo z Poznania do Chomęcic
 
