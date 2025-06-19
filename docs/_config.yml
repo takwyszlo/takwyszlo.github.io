@@ -1,0 +1,32 @@
+title:              Tak Wyszło
+email:              measureit.dev@gmail.com
+description:        Spread coding experience is our goal.
+author:             Jarosław Kurdzieko
+baseurl:            ""
+url:                "https://measureit.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    measureit
+facebook_username:  
+instagram_username:  
+linkedin_username: jarosław-kurdzieko-57690984
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
